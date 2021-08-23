@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A passionate Software Engineer from VietNam</h3>
+<h1 align="center">Hi 👋, I'm Hoang (Harry)</h1>
+<h3 align="center">I'm a Software Engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrynguyen4005&label=Profile%20views&color=0e75b6&style=flat" alt="harrynguyen4005" /> </p>
 
