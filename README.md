@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harrynguyen4005/](https://www.linkedin.com/in/harrynguyen4005/)
 
-- ⚡ Fun fact **I spend most of my time reading Books and traveling**
+- ⚡ Fun fact **I spend most of my free time with my family and friends. reading books at weekend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
