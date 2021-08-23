@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harrynguyen4005](https://github.com/harrynguyen4005)
 
-- 💬 Ask me about **iOS, cocos2d-x and Algorithm**
+- 💬 Ask me about **iOS and cocos2d-x**
 
 - 📫 How to reach me **harrynguyen4005@gmail.com or hoangnguyen4005@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/harrynguyen4005/](https://www.linkedin.com/in/harrynguyen4005/)
 
-- ⚡ Fun fact **I spend most of my time reading Books and solving problems on online forums**
+- ⚡ Fun fact **I spend most of my time reading Books and traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
