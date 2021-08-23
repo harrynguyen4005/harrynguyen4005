@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
-<h3 align="center">A passionate Software Engineer (iOS) from VietNam</h3>
+<h3 align="center">A passionate Software Engineer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrynguyen4005&label=Profile%20views&color=0e75b6&style=flat" alt="harrynguyen4005" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Swift, Objective-C, and C++**
 
-- 👯 I’m looking to collaborate on **iOS developement**
+- 👯 I’m looking to collaborate on **iOS and game developement**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harrynguyen4005](https://github.com/harrynguyen4005)
 
-- 💬 Ask me about **iOS and Algorithm**
+- 💬 Ask me about **iOS, cocos2d-x and Algorithm**
 
 - 📫 How to reach me **harrynguyen4005@gmail.com or hoangnguyen4005@gmail.com**
 
