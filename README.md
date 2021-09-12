@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences: [https://www.linkedin.com/in/harrynguyen4005/](https://www.linkedin.com/in/harrynguyen4005/)
 
-- ⚡ Fun fact: **I spend most of my free time with my family and friends. And reading books at weekend**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harrynguyen4005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrynguyen4005" height="30" width="40" /></a>
