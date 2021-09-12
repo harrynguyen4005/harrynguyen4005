@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrynguyen4005&label=Profile%20views&color=0e75b6&style=flat" alt="harrynguyen4005" /> </p>
 
-- 🔭 I’m currently working in **Singapore**
-
 - 🌱 I’m currently learning **Swift, Objective-C, and C++**
-
-- 👯 I’m looking to collaborate on **iOS and game developement**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/harrynguyen4005](https://github.com/harrynguyen4005)
 
